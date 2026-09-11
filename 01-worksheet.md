@@ -669,3 +669,14 @@ Hai phản hồi Xanh SM chạy bằng `gemini-3.6-flash` giữ thẻ `[DRAFT_ON
 Tôi không dùng kết quả này để kết luận bốn test VinFast đã PASS. Bước tiếp theo là đồng bộ code với đề tài VinFast, chạy test, ghi output thực tế và đánh giá lại. Bài học chính là phải kiểm tra bằng chứng thực thi, giới hạn phạm vi kết luận và giữ rõ những điều chưa biết.
 
 **Đóng gói bài nộp:** Nội dung reflection này cần được đưa vào file `03-ai-log.md` theo README khi hoàn thiện bộ deliverable.
+
+## Bộ deliverable đã đóng gói
+
+- [Problem Scan & Quick Cards](01-problem-scan.md)
+- [Deep-Dive Report](02-deep-dive-report.md)
+- [AI Log & Reflection](03-ai-log.md)
+- [Current-State Workflow PNG](04-workflow-diagram.png) / [PDF](04-workflow-diagram.pdf)
+- Code cá nhân Xanh SM: `starter-code/prompt_prototype.py` (đường dẫn autograder).
+- Prototype VinFast theo Phase 4: `starter-code/vinfast_triage_prototype.py` (đã triển khai; 15 kiểm tra offline PASS; chưa chạy Gemini thực tế).
+
+Các ghi chú “cần đồng bộ code” phía trên phản ánh trạng thái tại thời điểm đánh giá log Xanh SM; prototype VinFast riêng nay đã được bổ sung. Code cá nhân chỉ nộp trên branch cá nhân.
