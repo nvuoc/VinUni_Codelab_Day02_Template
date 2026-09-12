@@ -1,6 +1,6 @@
 # 03-ai-log.md — AI Log & Reflection (Nhật ký tương tác AI)
 
-**Học viên:** Trần Chính  
+**Học viên:** Văn Ước  
 **Vai trò:** AI Product Engineer — Vin Smart Future  
 **Bài toán thực hiện:** Trợ lý AI Co-pilot Điều phối trạm sạc & Cứu hộ khẩn cấp Xanh SM  
 **Mô hình AI sử dụng:** Google Gemini 2.5 Flash / Google Antigravity Agent  

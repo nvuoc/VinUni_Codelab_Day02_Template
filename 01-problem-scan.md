@@ -1,6 +1,6 @@
 # 01-problem-scan.md — Problem Scan & Quick Problem Cards (Vin Smart Future)
 
-**Học viên thực hiện:** Trần Chính  
+**Học viên thực hiện:** Văn Ước
 **Đơn vị:** Vin Smart Future (Vingroup)  
 **Mảng trọng tâm:** Di chuyển xanh & Vận hành thông minh (GSM / Xanh SM & VinFast)
 
@@ -8,7 +8,7 @@
 
 ## 🏛️ Bối cảnh & Vai trò
 
-Tôi là **Trần Chính**, AI Product Engineer tại **Vin Smart Future**. Nhiệm vụ của tôi trong bài lab hôm nay là ứng dụng công nghệ AI để giải quyết các nút thắt cổ chai vận hành (operational bottlenecks) tại các công ty thành viên thuộc Tập đoàn Vingroup, đặc biệt là nâng cao hiệu suất điều vận đội xe điện thông minh cho **Xanh SM (GSM)** và hạ tầng xe điện **VinFast**.
+Tôi là **Văn Ước**, AI Product Engineer tại **Vin Smart Future**. Nhiệm vụ của tôi trong bài lab hôm nay là ứng dụng công nghệ AI để giải quyết các nút thắt cổ chai vận hành (operational bottlenecks) tại các công ty thành viên thuộc Tập đoàn Vingroup, đặc biệt là nâng cao hiệu suất điều vận đội xe điện thông minh cho **Xanh SM (GSM)** và hạ tầng xe điện **VinFast**.
 
 ---
 
